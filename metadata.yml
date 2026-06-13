@@ -1,21 +1,37 @@
 ---
-name: "My OER Course"
+'@context': https://schema.org/
+creativeWorkStatus: Incomplete
+type: LearningResource
+name: Foundational Design Skills OER
+description: >-
+  The project will cover two-dimensional art foundational design skills. The six
+  design elements are “line, shape, mass/volume, perspective, texture, and
+  color” (Sachant et al., 2016, p.49). The skills will be taught as individual
+  lessons within the course. The goal of the course is for learners to identify
+  and demonstrate the different art elements. They will also be able to
+  categorize these elements in works of art.  
+license: https://creativecommons.org/publicdomain/zero/1.0/deed.de
 creator:
-  - givenName: "Max"
-    familyName: "Mustermann"
-  - givenName: "Maxi"
-    familyName: "Mustermann"
-publisher:
-  givenName: "Max"
-  familyName: "Mustermann"
+  - givenName: Lauren
+    familyName: Smyly
+    type: Person
+    affiliation:
+      name: Testing
+      type: Organization
 keywords:
-  - "Geometry"
-  - "Pythagoras"
-  - "Mathematics"
-description: "Draft for a course"
-inLanguage: "en"
-version: 1.0
-license: "https://creativecommons.org/publicdomain/zero/1.0/"
-thumbnailUrl: http://placehold.it/100x100
-learningResourceType: "Course"
-creativeWorkStatus: "Draft" # Incomplete, Draft, Published
+  - foundational design
+  - art
+  - 2d
+  - composition
+  - sketching
+  - perspective
+  - color theory
+inLanguage:
+  - en
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n76
+learningResourceType:
+  - https://w3id.org/kim/hcrt/web_page
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+
