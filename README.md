@@ -8,12 +8,12 @@ This is a template for open and freely licensed texts that delivers appealing, a
 
 With every save (commit) the documents are generated and available via:
 
-* [landing page](https://tibhannover.github.io/markdown-documents-template/)
+* [landing page](https://Walsa-X.github.io/Foundational-Design-Skills-OER/)
 
 or directly 
-* [Ebook](https://tibhannover.github.io/markdown-documents-template/document.epub)
-* [PDF](https://tibhannover.github.io/markdown-documents-template/document.pdf)
-* [HTML](https://tibhannover.github.io/markdown-documents-template/document.html)
+* [Ebook](https://Walsa-X.github.io/Foundational-Design-Skills-OER/document.epub)
+* [PDF](https://Walsa-X.github.io/Foundational-Design-Skills-OER/document.pdf)
+* [HTML](https://Walsa-X.github.io/Foundational-Design-Skills-OER/document.html)
 
 # Use this template
 
